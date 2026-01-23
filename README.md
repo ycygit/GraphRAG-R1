@@ -5,7 +5,7 @@
 
 **This is the official implementation of the paper "GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning" (accepted by WWW '26).**
 
-GraphRAG-R1 is a Graph Retrieval-Augmented Generation framework enhanced with Process-Constrained Reinforcement Learning, designed to improve the performance of large language models on complex multi-hop reasoning tasks. This repository contains the implementation for training, evaluation, and inference.
+GraphRAG-R1 is a Graph Retrieval-Augmented Generation framework enhanced with Process-Constrained Reinforcement Learning, designed to improve the performance of large language models on complex multi-hop reasoning tasks. This repository contains the implementation for evaluation and inference.
 
 ## 📖 Table of Contents
 - [Environment Setup](#environment-setup)
