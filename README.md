@@ -3,6 +3,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2508.00304-b31b1b.svg)](https://arxiv.org/abs/2507.23581)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+**This is the official implementation of the paper "GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning" (accepted by WWW '26).**
+
 GraphRAG-R1 is a Graph Retrieval-Augmented Generation framework enhanced with Process-Constrained Reinforcement Learning, designed to improve the performance of large language models on complex multi-hop reasoning tasks. This repository contains the implementation for training, evaluation, and inference.
 
 ## 📖 Table of Contents
@@ -129,11 +131,11 @@ This project is released under the [MIT License](LICENSE).
 If you find this work helpful for your research, please cite our paper:
 
 ```bibtex
-@article{yu2025graphrag,
+@inproceedings{yu2025graphrag,
   title={GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning},
   author={Yu, Chuanyue and Zhao, Kuo and Li, Yuhan and Chang, Heng and Feng, Mingjian and Jiang, Xiangzhe and Sun, Yufei and Li, Jia and Zhang, Yuzhi and Li, Jianxin and others},
-  journal={arXiv preprint arXiv:2507.23581},
-  year={2025}
+  booktitle = {Proceedings of the ACM Web Conference 2026 (WWW '26)},
+  year={2026}
 }
 ```
 
