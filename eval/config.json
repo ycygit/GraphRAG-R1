@@ -1,0 +1,13 @@
+{
+    "input_file": "/home/zhangziwei6/ycy/graphrag/GraphRAG-R1/eval/result/v1_base_test/hotpotqa.jsonl",
+    "use_em": true,
+    "use_cover_em_1": false,
+    "use_cover_em_2": false,
+    "acc": true,
+    "use_f1": true,
+    "use_sbert_sim": true,
+    "use_rouge": false
+  }
+  
+
+  
