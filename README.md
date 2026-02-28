@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.00304-b31b1b.svg)](https://arxiv.org/abs/2507.23581)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18349146.svg)](https://doi.org/10.5281/zenodo.18349146)
 
 **This is the official implementation of the paper "GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning" (accepted by WWW '26).**
 
@@ -32,7 +33,7 @@ We use a retrieval service based on HippoRAG. Please navigate to the `server/` d
 ### 2. Download Model Weights
 Download the pre-trained GraphRAG-R1 model weights from the link below and place them in the `checkpoints/` directory:
 
-> Download link: [Coming soon]
+> Download link: [GraphRAG-R1](https://huggingface.co/yuchuanyue/GraphRAG-R1)
 
 ### 3. Environment Configuration
 
